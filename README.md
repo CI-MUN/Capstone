@@ -11,10 +11,6 @@ Facilitar la gestión, trazabilidad y acceso seguro a documentos municipales, ga
 - Desarrollar un módulo de Inteligencia Artificial capaz de clasificar, priorizar y asignar automáticamente las incidencias ciudadanas, reduciendo el tiempo de procesamiento manual. 
 - Implementar  dashboard general de totales de documentos pendientes, en proceso, en espera de firma y procesado. 
 
-## Funcionalidades del Sistema
-
-- Crear un sistema de alertas en tiempo real, con la condición de notificar automáticamente cuando los KPIs o los resultados del scoring lo requieran. 
-
 
 ## Stack tecnológico
 
